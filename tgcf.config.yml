@@ -12,16 +12,6 @@
 forwards:
   - source: -1001098270440
     dest: [-1001578797133]
-  - source: -1001186856961
-    dest: [-1001530492863]
-  - source: -1001168675563
-    dest: [-1001462613405]
-  - source: -1001141966599
-    dest: [-1001351678300]
-  - source: -1001293368319
-    dest: [-1001527107942]
-  - source: -1001170620390
-    dest: [-1001425783355]
 
 past:
   delay: 2 # wait for 3s after forwarding each message
